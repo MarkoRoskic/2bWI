@@ -1,0 +1,33 @@
+.card {
+  width: 300px;
+  margin: 60px auto;
+  padding: 25px;
+  background-color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  border-radius: 15px;
+  box-shadow: 0 4px 15px #cccccc;
+}
+
+.card h2 {
+  color: #333333;
+}
+
+.card button {
+  padding: 12px 20px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.card button:hover {
+  background-color: #1d4ed8;
+}
+
+.card p {
+  min-height: 26px;
+  font-size: 22px;
+  color: #2563eb;
+}
